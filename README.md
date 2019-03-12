@@ -21,7 +21,7 @@ Java chassis
   <dependencyManagement>
     <dependencies>
       <dependency>
-        <groupId>io.servicecomb</groupId>
+        <groupId>org.apache.servicecomb</groupId>
         <artifactId>java-chassis-dependencies</artifactId>
         <version>${java.chassis.version}</version>
         <type>pom</type>
@@ -32,15 +32,15 @@ Java chassis
   
   <dependencies>
     <dependency>
-      <groupId>io.servicecomb</groupId>
+      <groupId>org.apache.servicecomb</groupId>
       <artifactId>transport-highway</artifactId>
     </dependency>
     <dependency>
-      <groupId>io.servicecomb</groupId>
+      <groupId>org.apache.servicecomb</groupId>
       <artifactId>transport-rest-vertx</artifactId>
     </dependency>
     <dependency>
-      <groupId>io.servicecomb</groupId>
+      <groupId>org.apache.servicecomb</groupId>
       <artifactId>provider-pojo</artifactId>
     </dependency>
   </dependencies>
@@ -174,7 +174,7 @@ Java chassis
   <dependencyManagement>
     <dependencies>
       <dependency>
-        <groupId>io.servicecomb</groupId>
+        <groupId>org.apache.servicecomb</groupId>
         <artifactId>java-chassis-dependencies</artifactId>
         <version>${java.chassis.version}</version>
         <type>pom</type>
@@ -185,15 +185,15 @@ Java chassis
   
   <dependencies>
     <dependency>
-      <groupId>io.servicecomb</groupId>
+      <groupId>org.apache.servicecomb</groupId>
       <artifactId>transport-highway</artifactId>
     </dependency>
     <dependency>
-      <groupId>io.servicecomb</groupId>
+      <groupId>org.apache.servicecomb</groupId>
       <artifactId>transport-rest-vertx</artifactId>
     </dependency>
     <dependency>
-      <groupId>io.servicecomb</groupId>
+      <groupId>org.apache.servicecomb</groupId>
       <artifactId>provider-pojo</artifactId>
     </dependency>
   </dependencies>
